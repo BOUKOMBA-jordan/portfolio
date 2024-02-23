@@ -1,0 +1,48 @@
+.auto-group-nwrr-1st {
+    
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+  }
+  .auto-group-nwrr-1st .group-12-kKg {
+    margin: 0 1.8rem;
+    width: calc(100% - 3.6rem);
+    height: 54.3rem;
+    border: 2px solid black;
+  }
+  .auto-group-nwrr-1st .group-12-kKg .des-dveloppeurs-habilent-et-chevronns-fxS {
+   
+    position: absolute;
+    left: 51rem;
+    top: 31.3312rem;
+    text-align: center;
+    font-size: 2.4rem;
+    font-weight: 400;
+    line-height: 1.2575;
+    color: #ffffff;
+    font-family: IM FELL French Canon, 'Source Sans Pro';
+    white-space: nowrap;
+    border: 2px solid blue;
+  }
+  .auto-group-nwrr-1st .group-12-kKg .paragraphe-w9G {
+    width: 144rem;
+    height: 54.3rem;
+    position: absolute;
+    left: 0;
+    top: 0;
+    overflow: hidden;
+    text-align: center;
+    font-size: 6.4rem;
+    font-weight: 700;
+    line-height: 1.1725;
+    color: #fdfdff;
+    font-family: Roboto Serif, 'Source Sans Pro';
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, 0.0700000003);
+    border: 2px solid red;
+  }

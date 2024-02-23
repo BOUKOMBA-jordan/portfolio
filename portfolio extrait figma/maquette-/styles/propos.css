@@ -1,0 +1,355 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 160.8rem;
+}.propos-mxA {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, #075358 -0%, rgba(11, 132, 137, 0.6929487586) 44.5%, rgba(10, 39, 55, 0.3899999857) 89%, #000e10 99.95%, rgba(9, 109, 111, 0.4970045984) 99.96%, rgba(3, 53, 47, 0) 99.97%);
+}
+.propos-mxA .header-vKG {
+  margin-bottom: 18.5rem;
+  box-sizing: border-box;
+  padding: 1.3rem 2.8rem 0rem 5.8rem;
+  width: 100%;
+  height: 13.4rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.propos-mxA .header-vKG .fond-decran-fablab-1-RWv {
+  margin-right: 26.7rem;
+  width: 11.4rem;
+  height: 12.4rem;
+  position: relative;
+  background-size: 542.665% 483.908%;
+  background-position: -21.6886rem -12.3989rem;
+  background-image: url('../assets/fond-decran-fablab-1-6Ar.png');
+  border-radius: 12.75rem;
+  flex-shrink: 0;
+}
+.propos-mxA .header-vKG .frame-16-tQW {
+  margin: 3rem 0rem 4.3rem 0rem;
+  box-sizing: border-box;
+  padding: 0.7rem 0;
+  height: calc(100% - 7.3rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.propos-mxA .header-vKG .frame-16-tQW .btnmenusimple-o1g {
+  margin-right: 8.15rem;
+  width: 8.7rem;
+  height: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.propos-mxA .header-vKG .frame-16-tQW .btnmenuclick-U7p {
+  margin: 0.2rem 8.15rem 0.1rem 0rem;
+  width: 11.9rem;
+  height: calc(100% - 0.3rem);
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  text-decoration-line: underline;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.propos-mxA .header-vKG .frame-16-tQW .btnmenusimple-LA2 {
+  margin-right: 5.5rem;
+  width: 12.9rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.propos-mxA .header-vKG .frame-16-tQW .btnmenusimple-EWJ {
+  margin-right: 5.5rem;
+  width: 14.7rem;
+  height: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.propos-mxA .header-vKG .frame-16-tQW .btnmenusimple-w9p {
+  margin-right: 5.5rem;
+  width: 23.9rem;
+  height: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.propos-mxA .header-vKG .frame-16-tQW .btnmenusimple-3Cr {
+  width: 9.2rem;
+  height: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.propos-mxA .frame-17-7yQ {
+  margin-bottom: 6.2rem;
+  box-sizing: border-box;
+  padding-right: 3.8rem;
+  width: 100%;
+  height: 59.7rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.propos-mxA .frame-17-7yQ .auto-group-m3pa-eCe {
+  margin: 2.8rem 3.8rem 0rem 0rem;
+  width: 103.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.propos-mxA .frame-17-7yQ .auto-group-m3pa-eCe .auto-group-9n14-NPY {
+  margin: 0rem 17.1rem 2.8rem 5.8rem;
+  width: calc(100% - 22.9rem);
+  height: 9.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.propos-mxA .frame-17-7yQ .auto-group-m3pa-eCe .auto-group-9n14-NPY .paragraphe-gf8 {
+  margin-right: 9.5rem;
+  width: 32.7rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: IM FELL French Canon, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.propos-mxA .frame-17-7yQ .auto-group-m3pa-eCe .auto-group-9n14-NPY .titre-de-section-AaJ {
+  width: 38.4rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #1fbbff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.propos-mxA .frame-17-7yQ .auto-group-m3pa-eCe .auto-group-dh82-TZQ {
+  width: 100%;
+  height: 66.9925rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.propos-mxA .frame-17-7yQ .auto-group-m3pa-eCe .auto-group-dh82-TZQ .paragraphe-158 {
+  width: 103.5rem;
+  height: 44.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  border: solid 0.2rem #cfb3b3;
+  box-sizing: border-box;
+}
+.propos-mxA .frame-17-7yQ .auto-group-m3pa-eCe .auto-group-dh82-TZQ .jeune-designer-ui-ux-passionn-du-design-mobile-du-dveloppement-web-et-application-mobile-mais-aussi-pdg-de-la-jordanbrel-corporation-Kbc {
+  width: 98.5rem;
+  height: 62.3rem;
+  position: absolute;
+  left: 3.3095rem;
+  top: 4.6925rem;
+  text-align: center;
+  font-size: 5.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #fff400;
+  font-family: IM FELL French Canon, 'Source Sans Pro';
+}
+.propos-mxA .frame-17-7yQ .c17cc67f5e6810524f38e963b2af821b-1-A6S {
+  width: 49.7rem;
+  height: 59.2rem;
+  position: relative;
+  background-size: 103.827% 128.07%;
+  background-position: 0.1049rem -6.8929rem;
+  background-image: url('../assets/c17cc67f5e6810524f38e963b2af821b-1.png');
+  border-radius: 5.8rem 0 0 5.8rem;
+  flex-shrink: 0;
+}
+.propos-mxA .frame-15-RYA {
+  margin: 0 6.6rem;
+  box-sizing: border-box;
+  padding: 4.15rem 0.5rem 2.3rem 3.7rem;
+  width: calc(100% - 13.2rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  border: solid 0 #000000;
+  flex-shrink: 0;
+}
+.propos-mxA .frame-15-RYA .paragraphe-Lf8 {
+  margin-right: 8.7rem;
+  height: 8.4rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.propos-mxA .frame-15-RYA .paragraphe-Lf8 .gfvzvzuyvqehvqhbvkhqevh-evfdbhjdhjb-HqG {
+  max-width: 51.6rem;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #fff400;
+  font-family: IM FELL French Canon, 'Source Sans Pro';
+}
+.propos-mxA .frame-15-RYA .titre-de-section-Qut {
+  margin: 0rem 22.4rem 28.45rem 0rem;
+  width: 19.6rem;
+  height: 5.7rem;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.propos-mxA .frame-15-RYA .frame-14-g6i {
+  box-sizing: border-box;
+  padding: 1.7rem 0rem 0rem 1.8rem;
+  height: 11rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  column-gap: 6.3rem;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.propos-mxA .frame-15-RYA .frame-14-g6i .tlchargement-7-1-zdC {
+  width: 9.9rem;
+  height: 9.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.propos-mxA .frame-15-RYA .frame-14-g6i .tlchargement-6-1-WrS {
+  width: 7.3rem;
+  height: 9.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.propos-mxA .frame-15-RYA .frame-14-g6i .tlchargement-5-1-dw4 {
+  width: 9.5rem;
+  height: 10.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}

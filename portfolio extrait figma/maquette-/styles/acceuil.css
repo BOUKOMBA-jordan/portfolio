@@ -1,0 +1,315 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 161rem;
+}.acceuil-2x6 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/acceuil-bg.png');
+}
+.acceuil-2x6 .header-PGr {
+  box-sizing: border-box;
+  padding: 1.9rem 1.5rem 0rem 2rem;
+  width: 100%;
+  height: 13.4rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.acceuil-2x6 .header-PGr .fond-decran-fablab-1-iK8 {
+  margin-right: 32.2rem;
+  width: 11.4rem;
+  height: 12.4rem;
+  position: relative;
+  background-size: 542.665% 483.908%;
+  background-position: -21.6886rem -12.3989rem;
+  background-image: url('../assets/fond-decran-fablab-1-1qg.png');
+  border-radius: 12.75rem;
+  flex-shrink: 0;
+}
+.acceuil-2x6 .header-PGr .frame-16-nZt {
+  margin: 2.4rem 0rem 4.3rem 0rem;
+  box-sizing: border-box;
+  padding: 0.7rem 0rem 0.7rem 2.7rem;
+  height: calc(100% - 6.7rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.acceuil-2x6 .header-PGr .frame-16-nZt .btnmenuclick-fta {
+  margin: 0.2rem 8.2rem 0.1rem 0rem;
+  width: 9.8rem;
+  height: calc(100% - 0.3rem);
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  text-decoration-line: underline;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.acceuil-2x6 .header-PGr .frame-16-nZt .btnmenusimple-j7k {
+  margin-right: 5.5rem;
+  width: 10.5rem;
+  height: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.acceuil-2x6 .header-PGr .frame-16-nZt .btnmenusimple-1qx {
+  margin-right: 5.5rem;
+  width: 12.9rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.acceuil-2x6 .header-PGr .frame-16-nZt .btnmenusimple-7tz {
+  margin-right: 5.5rem;
+  width: 14.7rem;
+  height: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.acceuil-2x6 .header-PGr .frame-16-nZt .btnmenusimple-DSE {
+  margin-right: 5.5rem;
+  width: 23.9rem;
+  height: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.acceuil-2x6 .header-PGr .frame-16-nZt .btnmenusimple-83Q {
+  width: 9.2rem;
+  height: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.acceuil-2x6 .auto-group-nwrr-1st {
+  box-sizing: border-box;
+  padding: 7.2rem 6.7rem 2.5rem 6.7rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.acceuil-2x6 .auto-group-nwrr-1st .group-12-kKg {
+  margin: 0 1.8rem;
+  width: calc(100% - 3.6rem);
+  height: 54.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.acceuil-2x6 .auto-group-nwrr-1st .group-12-kKg .des-dveloppeurs-habilent-et-chevronns-fxS {
+  width: 41.9rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 51rem;
+  top: 31.3312rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: IM FELL French Canon, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.acceuil-2x6 .auto-group-nwrr-1st .group-12-kKg .paragraphe-w9G {
+  width: 144rem;
+  height: 54.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 0.0700000003);
+}
+.acceuil-2x6 .auto-group-nwrr-1st .frame-14-1up {
+  box-sizing: border-box;
+  padding: 4.15rem 0.5rem 2.3rem 3.7rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0 #000000;
+  flex-shrink: 0;
+}
+.acceuil-2x6 .auto-group-nwrr-1st .frame-14-1up .titre-de-section-woU {
+  margin: 0rem 63.5rem 14.05rem 60.3rem;
+  width: calc(100% - 123.8rem);
+  height: 5.7rem;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.acceuil-2x6 .auto-group-nwrr-1st .frame-14-1up .auto-group-2qxe-dAW {
+  width: 100%;
+  height: 14.4rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.acceuil-2x6 .auto-group-nwrr-1st .frame-14-1up .auto-group-2qxe-dAW .auto-group-t9up-NNz {
+  margin-right: 23.1rem;
+  box-sizing: border-box;
+  padding-top: 6rem;
+  width: 79.2rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.acceuil-2x6 .auto-group-nwrr-1st .frame-14-1up .auto-group-2qxe-dAW .auto-group-t9up-NNz .paragraphe-u82 {
+  margin-right: 27.6rem;
+  width: 51.6rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}
+.acceuil-2x6 .auto-group-nwrr-1st .frame-14-1up .auto-group-2qxe-dAW .auto-group-t9up-NNz .paragraphe-u82 .gfvzvzuyvqehvqhbvkhqevh-evfdbhjdhjb-3V8 {
+  max-width: 51.6rem;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #fff400;
+  font-family: IM FELL French Canon, 'Source Sans Pro';
+}
+.acceuil-2x6 .auto-group-nwrr-1st .frame-14-1up .auto-group-2qxe-dAW .frame-14-Mki {
+  box-sizing: border-box;
+  padding: 1.7rem 0rem 0rem 1.8rem;
+  height: 11rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  column-gap: 6.3rem;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.acceuil-2x6 .auto-group-nwrr-1st .frame-14-1up .auto-group-2qxe-dAW .frame-14-Mki .tlchargement-7-1-5Av {
+  width: 9.9rem;
+  height: 9.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.acceuil-2x6 .auto-group-nwrr-1st .frame-14-1up .auto-group-2qxe-dAW .frame-14-Mki .tlchargement-6-1-1KU {
+  width: 7.3rem;
+  height: 9.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.acceuil-2x6 .auto-group-nwrr-1st .frame-14-1up .auto-group-2qxe-dAW .frame-14-Mki .tlchargement-5-1-wU2 {
+  width: 9.5rem;
+  height: 10.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}

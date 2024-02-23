@@ -1,0 +1,32 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 12rem;
+}.btnmenusimple-bx2 {
+  text-align: center;
+  font-size: 2.4rem;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+  line-height: 1.1725;
+  width: 100%;
+  height: 3.4rem;
+  font-weight: 400;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  display: flex;
+  white-space: nowrap;
+  align-items: center;
+}

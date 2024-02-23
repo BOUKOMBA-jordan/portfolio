@@ -1,0 +1,57 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 23.3rem;
+}.cardequipe-LMC {
+  box-sizing: border-box;
+  padding: 0 0.8rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.3rem #000000;
+}
+.cardequipe-LMC .frame-4-HGS {
+  margin-bottom: 1rem;
+  width: 15.3rem;
+  height: 11.4rem;
+  position: relative;
+  background-size: 100% 247.544%;
+  background-position: 0.3801rem -2.3288rem;
+  background-image: url('../assets/frame-4.png');
+  border-radius: 29rem;
+  flex-shrink: 0;
+}
+.cardequipe-LMC .frame-7-wrn {
+  box-sizing: border-box;
+  padding: 1rem 3.75rem 0.5rem 3.75rem;
+  width: 100%;
+  height: 7.6rem;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.2rem #000000;
+  flex-shrink: 0;
+}
+.cardequipe-LMC .frame-7-wrn .vjsjbvjdbvb-fbjkfdkkkkkkk-g3g {
+  max-width: 14.2rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: IM FELL French Canon, 'Source Sans Pro';
+}

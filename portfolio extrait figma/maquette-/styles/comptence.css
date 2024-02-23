@@ -1,0 +1,645 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 218.6rem;
+}.comptence-Frn {
+  box-sizing: border-box;
+  padding: 2.9rem 0rem 0rem 3.3rem;
+  width: 100%;
+  height: 678.9rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+}
+.comptence-Frn .propos-NRc {
+  width: 215.6rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, #075358 -0%, rgba(11, 132, 137, 0.6929487586) 44.5%, rgba(10, 39, 55, 0.3899999857) 89%, #000e10 99.95%, rgba(9, 109, 111, 0.4970045984) 99.96%, rgba(3, 53, 47, 0) 99.97%);
+}
+.comptence-Frn .propos-NRc .frame-27-7PC {
+  margin: 0rem 0.3rem 13.5rem 0rem;
+  width: 215.3rem;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC {
+  box-sizing: border-box;
+  padding: 0rem 0rem 13.9rem 0.6rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC .header-wt2 {
+  margin: 0rem 0rem 36.9rem 3rem;
+  box-sizing: border-box;
+  padding: 1.3rem 1.4rem 0rem 5.8rem;
+  width: calc(100% - 3rem);
+  height: 13.4rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC .header-wt2 .fond-decran-fablab-1-EcE {
+  margin-right: 57.2rem;
+  width: 11.4rem;
+  height: 12.4rem;
+  position: relative;
+  background-size: 542.665% 483.908%;
+  background-position: -21.6886rem -12.3989rem;
+  background-image: url('../assets/fond-decran-fablab-1.png');
+  border-radius: 12.75rem;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC .header-wt2 .frame-16-Vo4 {
+  margin: 3rem 0rem 4.3rem 0rem;
+  box-sizing: border-box;
+  padding: 0.45rem 0rem 0.7rem 2.7rem;
+  height: calc(100% - 7.3rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC .header-wt2 .frame-16-Vo4 .btnmenuclick-zUv {
+  margin: 0rem 6.5rem 0.55rem 0rem;
+  width: 9.8rem;
+  height: 3.1rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC .header-wt2 .frame-16-Vo4 .btnmenusimple-ubt {
+  margin: 0.25rem 6rem 0rem 0rem;
+  width: 8.7rem;
+  height: 3.4rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC .header-wt2 .frame-16-Vo4 .btnmenusimple-B3c {
+  margin: 0.25rem 6rem 0rem 0rem;
+  width: 10.5rem;
+  height: 3.4rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC .header-wt2 .frame-16-Vo4 .btnmenusimple-T18 {
+  margin: 0.25rem 8.45rem 0rem 0rem;
+  width: 12.9rem;
+  height: 3.4rem;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC .header-wt2 .frame-16-Vo4 .btnmenuclick-vfQ {
+  margin: 0.35rem 8.45rem 0rem 0rem;
+  width: 16.8rem;
+  height: 3.1rem;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  text-decoration-line: underline;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC .header-wt2 .frame-16-Vo4 .btnmenusimple-bmY {
+  margin: 0.25rem 6rem 0rem 0rem;
+  width: 23.9rem;
+  height: 3.4rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC .header-wt2 .frame-16-Vo4 .btnmenusimple-syx {
+  margin-top: 0.25rem;
+  width: 9.2rem;
+  height: 3.4rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC .titre-de-section-Zrn {
+  margin: 0rem 45.9rem 15.9rem 45.3rem;
+  width: calc(100% - 91.2rem);
+  height: 9.4rem;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC .frame-19-qZQ {
+  margin: 0rem 25.8rem 21.5rem 24.6rem;
+  width: calc(100% - 50.4rem);
+  height: 49.1rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC .frame-19-qZQ .paragraphe-MXk {
+  margin-right: 2.6rem;
+  box-sizing: border-box;
+  padding-top: 13.35rem;
+  width: 80.9rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.2rem #000000;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC .frame-19-qZQ .paragraphe-MXk .gfvzvzuyvqehvqhbvkhqevh-evfdbhjdhjb-HRQ {
+  max-width: 80.7rem;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: IM FELL French Canon, 'Source Sans Pro';
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC .frame-19-qZQ .image-1-yJE {
+  width: 80.8rem;
+  height: 49.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 7.7rem;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC .frame-20-hk2 {
+  margin: 0rem 25.8rem 13rem 22rem;
+  width: calc(100% - 47.8rem);
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC .frame-20-hk2 .titre-de-section-EV4 {
+  margin-bottom: 6.7rem;
+  box-sizing: border-box;
+  padding: 0 9.05rem;
+  width: 100%;
+  height: 22.3rem;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.2rem #000000;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC .frame-20-hk2 .titre-de-section-EV4 .titre-de-section-xvr {
+  max-width: 148.8rem;
+  text-align: center;
+  font-size: 9.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC .frame-20-hk2 .image-2-g6A {
+  margin-left: 0.1rem;
+  width: 113rem;
+  height: 22.8rem;
+  position: relative;
+  background-size: 99.153% 98.665%;
+  background-position: 0.9567rem -0.0006rem;
+  background-image: url('../assets/image-2.png');
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC .group-7-m7c {
+  margin: 0rem 2.1rem 16.589rem 0rem;
+  width: 212.6rem;
+  height: 112.6112rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC .group-7-m7c .group-6-69t {
+  box-sizing: border-box;
+  padding: 2.4rem 0rem 1.271rem 0rem;
+  width: 212.6rem;
+  height: 110.9663rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC .group-7-m7c .group-6-69t .frame-23-cP8 {
+  margin-bottom: 12.1rem;
+  width: 195.5rem;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC .group-7-m7c .group-6-69t .frame-23-cP8 .titre-de-section-Xkz {
+  margin: 0rem 0rem 9.4rem 14.5rem;
+  box-sizing: border-box;
+  padding: 0.8rem 18.45rem 0rem 18.45rem;
+  height: 24rem;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.2rem #000000;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC .group-7-m7c .group-6-69t .frame-23-cP8 .titre-de-section-Xkz .titre-de-section-EvJ {
+  max-width: 134.1rem;
+  text-align: center;
+  font-size: 9.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC .group-7-m7c .group-6-69t .frame-23-cP8 .auto-group-phst-ZSn {
+  width: 100%;
+  height: 9.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC .group-7-m7c .group-6-69t .frame-23-cP8 .auto-group-phst-ZSn .titre-de-section-JQN {
+  margin-right: 90.1rem;
+  width: 73.9rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #19aff0;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC .group-7-m7c .group-6-69t .frame-23-cP8 .auto-group-phst-ZSn .titre-de-section-BUA {
+  width: 31.5rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #19aff0;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC .group-7-m7c .group-6-69t .image-3-GVc {
+  margin-left: 2.7rem;
+  width: 67.6407rem;
+  height: 52.395rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 7.6rem;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC .group-7-m7c .image-4-yup {
+  width: 95.5857rem;
+  height: 55.3112rem;
+  position: relative;
+  left: 114.2143rem;
+  top: 57.3rem;
+  background-size: 97.645% 68.942%;
+  background-position: 0.7845rem 10.4012rem;
+  background-image: url('../assets/image-4.png');
+  border-radius: 22.7rem;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC .frame-24-rTp {
+  margin: 0rem 28.6rem 19.2rem 34.8rem;
+  width: calc(100% - 63.4rem);
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC .frame-24-rTp .paragraphe-PCr {
+  margin-bottom: 14.4rem;
+  box-sizing: border-box;
+  padding: 0 11.25rem;
+  width: 100%;
+  height: 7.5rem;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: IM FELL French Canon, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #000000;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC .frame-24-rTp .frame-22-i8e {
+  margin: 0rem 5.2rem 0rem 2.9rem;
+  width: calc(100% - 8.1rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC .frame-24-rTp .frame-22-i8e .image-5-dWW {
+  margin: 1.4rem 56rem 0rem 0rem;
+  width: 48.3rem;
+  height: 29.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 8rem;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC .frame-24-rTp .frame-22-i8e .image-6-wXC {
+  width: 38.9rem;
+  height: 38.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC .frame-25-gDt {
+  margin-right: 0.6rem;
+  box-sizing: border-box;
+  padding-bottom: 3rem;
+  width: 213.9rem;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC .frame-25-gDt .paragraphe-Ci2 {
+  margin: 0rem 41.5rem 20.8rem 32.3rem;
+  box-sizing: border-box;
+  padding: 0 1.15rem;
+  width: calc(100% - 73.8rem);
+  height: 11.2rem;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 9.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: IM FELL French Canon, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #000000;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .auto-group-us9l-qKC .frame-25-gDt .image-7-rna {
+  width: 215.3rem;
+  height: 30.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .frame-26-oC2 {
+  margin-bottom: 9.3rem;
+  box-sizing: border-box;
+  padding: 6.1rem 0rem 9.5rem 2.2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .frame-26-oC2 .paragraphe-Ws8 {
+  margin-bottom: 13.9rem;
+  box-sizing: border-box;
+  padding: 0 4.7rem;
+  width: 213.5rem;
+  height: 22.4rem;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.2rem #000000;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .frame-26-oC2 .paragraphe-Ws8 .gfvzvzuyvqehvqhbvkhqevh-evfdbhjdhjb-T1g {
+  max-width: 204.1rem;
+  text-align: center;
+  font-size: 9.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: IM FELL French Canon, 'Source Sans Pro';
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .frame-26-oC2 .image-8-YYv {
+  margin-right: 1.7rem;
+  width: 163.4rem;
+  height: 32.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .paragraphe-fdY {
+  margin: 0rem 1.7rem 0rem 2.2rem;
+  box-sizing: border-box;
+  padding: 5.2rem 7.65rem 0rem 7.65rem;
+  width: calc(100% - 3.9rem);
+  height: 32.8rem;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.2rem #000000;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-27-7PC .paragraphe-fdY .gfvzvzuyvqehvqhbvkhqevh-evfdbhjdhjb-mga {
+  max-width: 196.1rem;
+  text-align: center;
+  font-size: 9.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: IM FELL French Canon, 'Source Sans Pro';
+}
+.comptence-Frn .propos-NRc .frame-19-gHk {
+  margin: 0rem 34.1rem 0rem 33.9rem;
+  box-sizing: border-box;
+  padding: 0.35rem 0.5rem 0.35rem 3.7rem;
+  width: calc(100% - 68rem);
+  height: 35.9rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  border: solid 0 #000000;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-19-gHk .paragraphe-y1x {
+  margin: 0rem 8.7rem 1.05rem 0rem;
+  height: 8.4rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-19-gHk .paragraphe-y1x .gfvzvzuyvqehvqhbvkhqevh-evfdbhjdhjb-W1t {
+  max-width: 51.6rem;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #fff400;
+  font-family: IM FELL French Canon, 'Source Sans Pro';
+}
+.comptence-Frn .propos-NRc .frame-19-gHk .titre-de-section-R8r {
+  margin: 0rem 22.4rem 29.5rem 0rem;
+  width: 19.6rem;
+  height: 5.7rem;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-19-gHk .frame-14-JCe {
+  margin-bottom: 1.05rem;
+  box-sizing: border-box;
+  padding: 1.7rem 0rem 0rem 1.8rem;
+  height: 11rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  column-gap: 6.3rem;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-19-gHk .frame-14-JCe .tlchargement-7-1-PUz {
+  width: 9.9rem;
+  height: 9.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-19-gHk .frame-14-JCe .tlchargement-6-1-KdY {
+  width: 7.3rem;
+  height: 9.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.comptence-Frn .propos-NRc .frame-19-gHk .frame-14-JCe .tlchargement-5-1-rdU {
+  width: 9.5rem;
+  height: 10.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}

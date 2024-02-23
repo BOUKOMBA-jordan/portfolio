@@ -1,0 +1,23 @@
+.menu-header{
+  border: 2px solid black; 
+  padding: 2%;
+  display: flex;
+  margin-right: 2%;
+  width: 100%;
+  justify-content: space-between;
+  margin-left: 20%;
+}
+
+.menu-bouton{
+
+  padding: 2px;
+  font-size: 1.1rem;
+  text-decoration: none;
+  color: #1d1d22;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  margin-right: 1%;
+  cursor: pointer;
+  text-align: left;
+  
+  
+}

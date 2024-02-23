@@ -1,0 +1,33 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 15.2rem;
+}.btnmenuclick-ccE {
+  width: 100%;
+  height: 3.9rem;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  text-decoration-line: underline;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

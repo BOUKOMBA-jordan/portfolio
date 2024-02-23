@@ -1,0 +1,672 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 67.3rem;
+}.formations-icv {
+  box-sizing: border-box;
+  flex-direction: column;
+  background-color: #ffffff;
+  padding-bottom: 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+
+  .header-djt {
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 1.4rem 0.6rem 0.9rem 0.6rem;
+    width: 67.5rem;
+    height: 7rem;
+    border: solid 0.3rem #000000;
+    flex-shrink: 0;
+
+    .group-3-Xin {
+      font-size: 1.2rem;
+      letter-spacing: 0.06rem;
+      background-repeat: no-repeat;
+      justify-content: center;
+      background-image: url('REPLACE_IMAGE:3:245');
+      flex-shrink: 0;
+      margin: 0rem 5.6rem 0.5rem 0rem;
+      font-family: Inter, 'Source Sans Pro';
+      display: flex;
+      white-space: nowrap;
+      background-size: cover;
+      background-position: center;
+      width: 4.5rem;
+      height: 4.2rem;
+      line-height: 1.2125;
+      font-weight: 400;
+      color: #000000;
+      align-items: center;
+    }
+    .btnacceuil-Z9g {
+      color: #080808;
+      font-family: Inter, 'Source Sans Pro';
+      align-items: center;
+      width: 6.5rem;
+      height: calc(100% - 2.8rem);
+      position: relative;
+      font-size: 1.2rem;
+      line-height: 1.2125;
+      border: solid 0.3rem #000000;
+      box-sizing: border-box;
+      font-weight: 400;
+      letter-spacing: 0.06rem;
+      display: flex;
+      margin: 1.2rem 2rem 1.6rem 0rem;
+      white-space: nowrap;
+      overflow: hidden;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+    .auto-group-jcxq-QAJ {
+      height: 3.5rem;
+      border-bottom: solid 0.5rem #211ed6;
+      box-sizing: border-box;
+      flex-shrink: 0;
+      margin: 1.2rem 2rem 0rem 0rem;
+      width: 8.9rem;
+
+      .btnformations-8MC {
+        height: 1.9rem;
+        display: flex;
+        justify-content: center;
+        box-sizing: border-box;
+        position: relative;
+        font-weight: 400;
+        align-items: center;
+        border: solid 0.3rem #000000;
+        margin-bottom: 1.6rem;
+        font-size: 1.2rem;
+        line-height: 1.2125;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        width: 100%;
+        overflow: hidden;
+        letter-spacing: 0.06rem;
+        color: #080808;
+      }
+    }
+    .btnactuait-nRk {
+      overflow: hidden;
+      font-size: 1.2rem;
+      line-height: 1.2125;
+      align-items: center;
+      justify-content: center;
+      border: solid 0.3rem #000000;
+      box-sizing: border-box;
+      margin: 1.2rem 2rem 1.6rem 0rem;
+      width: 8.2rem;
+      color: #080808;
+      white-space: nowrap;
+      font-weight: 400;
+      position: relative;
+      letter-spacing: 0.06rem;
+      font-family: Inter, 'Source Sans Pro';
+      display: flex;
+      flex-shrink: 0;
+      height: calc(100% - 2.8rem);
+    }
+    .btnralisation-eir {
+      box-sizing: border-box;
+      font-weight: 400;
+      height: calc(100% - 2.8rem);
+      letter-spacing: 0.06rem;
+      color: #080808;
+      font-family: Inter, 'Source Sans Pro';
+      display: flex;
+      border: solid 0.3rem #000000;
+      width: 9.5rem;
+      font-size: 1.2rem;
+      line-height: 1.2125;
+      white-space: nowrap;
+      align-items: center;
+      flex-shrink: 0;
+      margin: 1.2rem 2rem 1.6rem 0rem;
+      position: relative;
+      justify-content: center;
+      overflow: hidden;
+    }
+    .btncontact-6qk {
+      font-family: Inter, 'Source Sans Pro';
+      margin: 1.2rem 2rem 1.6rem 0rem;
+      line-height: 1.2125;
+      color: #080808;
+      box-sizing: border-box;
+      overflow: hidden;
+      font-weight: 400;
+      white-space: nowrap;
+      display: flex;
+      height: calc(100% - 2.8rem);
+      font-size: 1.2rem;
+      letter-spacing: 0.06rem;
+      justify-content: center;
+      border: solid 0.3rem #000000;
+      flex-shrink: 0;
+      width: 6.2rem;
+      position: relative;
+      align-items: center;
+    }
+    .btncontact-mS6 {
+      border: solid 0.3rem #000000;
+      box-sizing: border-box;
+      overflow: hidden;
+      font-size: 1.2rem;
+      color: #080808;
+      font-weight: 400;
+      font-family: Inter, 'Source Sans Pro';
+      align-items: center;
+      margin: 1.2rem 0rem 1.6rem 0rem;
+      width: 6.9rem;
+      height: calc(100% - 2.8rem);
+      position: relative;
+      display: flex;
+      flex-shrink: 0;
+      justify-content: center;
+      line-height: 1.2125;
+      letter-spacing: 0.06rem;
+      white-space: nowrap;
+    }
+  }
+  .auto-group-zrea-chc {
+    flex-direction: column;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    padding: 5.8rem 6.6rem 3.3rem 6.3rem;
+    width: 100%;
+    align-items: center;
+    display: flex;
+
+    .frame-1-wUz {
+      flex-shrink: 0;
+      margin: 0rem 0rem 3rem 0.2rem;
+      padding: 2.2rem 11.05rem 2.6rem 11.05rem;
+      width: 54.2rem;
+      overflow: hidden;
+      border: solid 0.3rem #000000;
+      box-sizing: border-box;
+      height: 10.7rem;
+      position: relative;
+
+      .dure-de-la-formation-mthodologie-dapprentissage-32E {
+        line-height: 1.2125;
+        color: #000000;
+        font-family: Inter, 'Source Sans Pro';
+        max-width: 32.1rem;
+        text-align: center;
+        font-size: 2.4rem;
+        font-weight: 400;
+      }
+    }
+    .frame-2-uaE {
+      padding: 1.4rem 0;
+      position: relative;
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      border: solid 0.3rem #000000;
+      flex-shrink: 0;
+      margin-right: 0.2rem;
+      box-sizing: border-box;
+      width: 54.2rem;
+      overflow: hidden;
+
+      .auto-group-x9nn-qCz {
+        flex-shrink: 0;
+        margin-bottom: 1.9rem;
+        width: 100%;
+        height: 10.9rem;
+        display: flex;
+        column-gap: 1.6rem;
+        align-items: center;
+
+        .group-4-9zN {
+          flex-shrink: 0;
+          width: 17rem;
+          height: 100%;
+          align-items: center;
+          display: flex;
+          flex-direction: column;
+
+          .auto-group-irhc-i1t {
+            height: 7.4rem;
+            border: solid 0.2rem #000000;
+            background-color: #d9d9d9;
+            flex-shrink: 0;
+            margin-bottom: 0.5rem;
+            box-sizing: border-box;
+            padding: 1.1rem 3.15rem 0.4rem 3.15rem;
+            width: 100%;
+
+            .photo-de-discipline-q6W {
+              font-family: Inter, 'Source Sans Pro';
+              max-width: 10.7rem;
+              text-align: center;
+              font-size: 2.4rem;
+              font-weight: 400;
+              line-height: 1.2125;
+              color: #000000;
+            }
+          }
+          .dev-97C {
+            text-align: center;
+            font-weight: 400;
+            flex-shrink: 0;
+            margin-right: 0.0364rem;
+            font-size: 2.4rem;
+            line-height: 1.2125;
+            color: #000000;
+            font-family: Inter, 'Source Sans Pro';
+            white-space: nowrap;
+          }
+        }
+        .group-4-GSi {
+          width: 17rem;
+          height: 100%;
+          align-items: center;
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+
+          .auto-group-fy6v-d2N {
+            border: solid 0.2rem #000000;
+            background-color: #d9d9d9;
+            flex-shrink: 0;
+            margin-bottom: 0.5rem;
+            box-sizing: border-box;
+            padding: 1.1rem 3.15rem 0.4rem 3.15rem;
+            width: 100%;
+            height: 7.4rem;
+
+            .photo-de-discipline-9Fc {
+              max-width: 10.7rem;
+              text-align: center;
+              font-size: 2.4rem;
+              font-weight: 400;
+              line-height: 1.2125;
+              color: #000000;
+              font-family: Inter, 'Source Sans Pro';
+            }
+          }
+          .electro-47g {
+            margin-right: 0.0364rem;
+            text-align: center;
+            font-size: 2.4rem;
+            font-weight: 400;
+            font-family: Inter, 'Source Sans Pro';
+            line-height: 1.2125;
+            color: #000000;
+            white-space: nowrap;
+            flex-shrink: 0;
+          }
+        }
+        .group-4-z1L {
+          height: 100%;
+          align-items: center;
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+          width: 17rem;
+
+          .auto-group-whdq-998 {
+            height: 7.4rem;
+            border: solid 0.2rem #000000;
+            background-color: #d9d9d9;
+            flex-shrink: 0;
+            margin-bottom: 0.5rem;
+            box-sizing: border-box;
+            padding: 1.1rem 3.15rem 0.4rem 3.15rem;
+            width: 100%;
+
+            .photo-de-discipline-FT4 {
+              line-height: 1.2125;
+              color: #000000;
+              font-family: Inter, 'Source Sans Pro';
+              max-width: 10.7rem;
+              text-align: center;
+              font-size: 2.4rem;
+              font-weight: 400;
+            }
+          }
+          .ref-dig-8mk {
+            margin-right: 0.0364rem;
+            font-size: 2.4rem;
+            line-height: 1.2125;
+            font-family: Inter, 'Source Sans Pro';
+            flex-shrink: 0;
+            text-align: center;
+            font-weight: 400;
+            color: #000000;
+            white-space: nowrap;
+          }
+        }
+      }
+      .frame-4-TJE {
+        box-sizing: border-box;
+        padding: 0.9rem 7.6rem 0.8rem 7.6rem;
+        width: calc(100% - 7rem);
+        height: 7.6rem;
+        border: solid 0.2rem #000000;
+        flex-shrink: 0;
+        margin: 0 3.5rem;
+        overflow: hidden;
+        position: relative;
+
+        .comptence-de-la-discipline-slectionner-mZp {
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          color: #000000;
+          font-family: Inter, 'Source Sans Pro';
+          max-width: 32rem;
+          text-align: center;
+        }
+      }
+    }
+  }
+  .frame-12-edc {
+    box-sizing: border-box;
+    padding: 2.65rem 5.05rem 3rem 5.55rem;
+    overflow: hidden;
+    position: relative;
+    border: solid 0.3rem #000000;
+    flex-shrink: 0;
+    margin-bottom: 1.9rem;
+    width: 67.4rem;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+
+    .notre-quipe-A6A {
+      font-size: 2.4rem;
+      font-weight: 400;
+      color: #000000;
+      margin: 0rem 0.5rem 1.2rem 0rem;
+      text-align: center;
+      line-height: 1.2125;
+      letter-spacing: 0.12rem;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .group-4-3ve {
+      width: 100%;
+      height: 11.55rem;
+      display: flex;
+      align-items: flex-start;
+      flex-shrink: 0;
+
+      .group-10-CYe {
+        margin-right: 3.1rem;
+        width: 10.8rem;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+
+        .auto-group-kxxz-wWE {
+          color: #000000;
+          white-space: nowrap;
+          justify-content: center;
+          flex-shrink: 0;
+          width: calc(100% - 3.4885rem);
+          text-align: center;
+          letter-spacing: 0.08rem;
+          align-items: center;
+          background-size: cover;
+          height: 6.8447rem;
+          line-height: 1.2125;
+          font-family: Inter, 'Source Sans Pro';
+          background-repeat: no-repeat;
+          background-image: url('REPLACE_IMAGE:3:265');
+          margin: 0rem 1.738rem 0.778rem 1.75rem;
+          font-size: 1.6rem;
+          background-position: center;
+          font-weight: 400;
+          display: flex;
+        }
+        .fab-manager-Cwx {
+          color: #000000;
+          flex-shrink: 0;
+          letter-spacing: 0.08rem;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          text-align: center;
+          font-size: 1.6rem;
+          font-weight: 400;
+          line-height: 1.2125;
+        }
+      }
+      .group-11-jBC {
+        margin-right: 4.4rem;
+        width: 11.8rem;
+        height: 100%;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+
+        .auto-group-tfzq-fqY {
+          height: 6.8447rem;
+          background-repeat: no-repeat;
+          flex-shrink: 0;
+          text-align: center;
+          justify-content: center;
+          background-position: center;
+          font-size: 1.6rem;
+          letter-spacing: 0.08rem;
+          color: #000000;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          background-size: cover;
+          background-image: url('REPLACE_IMAGE:3:269');
+          margin: 0rem 2.238rem 0.805rem 2.25rem;
+          width: calc(100% - 4.4885rem);
+          font-weight: 400;
+          line-height: 1.2125;
+          display: flex;
+          align-items: center;
+        }
+        .formateur-dveloppement-8z2 {
+          max-width: 11.8rem;
+          text-align: center;
+          font-size: 1.6rem;
+          line-height: 1.2125;
+          font-family: Inter, 'Source Sans Pro';
+          font-weight: 400;
+          letter-spacing: 0.08rem;
+          color: #000000;
+          flex-shrink: 0;
+        }
+      }
+      .group-12-Szi {
+        margin-right: 4.5rem;
+        width: 10.4rem;
+        height: 100%;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+
+        .auto-group-uq1c-Pux {
+          white-space: nowrap;
+          background-size: cover;
+          flex-shrink: 0;
+          align-items: center;
+          justify-content: center;
+          background-repeat: no-repeat;
+          background-position: center;
+          width: calc(100% - 3.0885rem);
+          height: 6.8447rem;
+          text-align: center;
+          display: flex;
+          margin: 0rem 1.538rem 0.805rem 1.55rem;
+          font-weight: 400;
+          letter-spacing: 0.08rem;
+          color: #000000;
+          font-size: 1.6rem;
+          line-height: 1.2125;
+          font-family: Inter, 'Source Sans Pro';
+          background-image: url('REPLACE_IMAGE:3:273');
+        }
+        .formateur-lectronique-roY {
+          letter-spacing: 0.08rem;
+          flex-shrink: 0;
+          font-weight: 400;
+          line-height: 1.2125;
+          color: #000000;
+          font-family: Inter, 'Source Sans Pro';
+          max-width: 10.4rem;
+          text-align: center;
+          font-size: 1.6rem;
+        }
+      }
+      .group-13-N1C {
+        width: 11.8rem;
+        height: 100%;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+
+        .auto-group-9j3u-ump {
+          height: 6.8447rem;
+          letter-spacing: 0.08rem;
+          color: #000000;
+          font-family: Inter, 'Source Sans Pro';
+          background-size: cover;
+          margin: 0rem 2.238rem 0.805rem 2.25rem;
+          align-items: center;
+          background-repeat: no-repeat;
+          background-position: center;
+          background-image: url('REPLACE_IMAGE:3:277');
+          width: calc(100% - 4.4885rem);
+          justify-content: center;
+          flex-shrink: 0;
+          font-size: 1.6rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          white-space: nowrap;
+          display: flex;
+          text-align: center;
+        }
+        .formateur-refrent-digitale-Axe {
+          text-align: center;
+          line-height: 1.2125;
+          letter-spacing: 0.08rem;
+          font-family: Inter, 'Source Sans Pro';
+          max-width: 11.8rem;
+          font-weight: 400;
+          color: #000000;
+          flex-shrink: 0;
+          font-size: 1.6rem;
+        }
+      }
+    }
+  }
+  .frame-12-542 {
+    padding: 1.2rem 1.35rem 0.9rem 4.2rem;
+    overflow: hidden;
+    border: solid 0.3rem #000000;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    width: 67.5rem;
+    position: relative;
+    align-items: center;
+
+    .contact-zgn {
+      line-height: 1.2125;
+      letter-spacing: 0.12rem;
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.4rem;
+      text-align: center;
+      font-weight: 400;
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin: 0rem 2.05rem 1.2rem 0rem;
+    }
+    .auto-group-a34a-uYr {
+      margin-bottom: 2.6rem;
+      width: 100%;
+      height: 9.2rem;
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+
+      .group-3-qxJ {
+        flex-shrink: 0;
+        margin-right: 2.3rem;
+        box-sizing: border-box;
+        padding: 1.368rem 3.25rem 1.932rem 3.25rem;
+        width: 18.7rem;
+        height: 100%;
+        border: solid 0.2rem #000000;
+        background-color: #d9d9d9;
+
+        .formulaire-de-contact-mqx {
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          color: #000000;
+          font-family: Inter, 'Source Sans Pro';
+          max-width: 12.2rem;
+          text-align: center;
+        }
+      }
+      .localisation-adesseadresse-55x {
+        text-align: center;
+        font-size: 2.4rem;
+        font-weight: 400;
+        font-family: Inter, 'Source Sans Pro';
+        margin: 0rem 4.05rem 0.5rem 0rem;
+        max-width: 17.9rem;
+        line-height: 1.2125;
+        color: #000000;
+        flex-shrink: 0;
+      }
+      .rseaux-sociaux-mzN {
+        white-space: nowrap;
+        margin-bottom: 0.4rem;
+        text-align: center;
+        font-size: 2.4rem;
+        font-weight: 400;
+        line-height: 1.2125;
+        color: #000000;
+        font-family: Inter, 'Source Sans Pro';
+        flex-shrink: 0;
+      }
+    }
+    .mention-lgale-6Fx {
+      white-space: nowrap;
+      text-align: center;
+      font-size: 2.4rem;
+      line-height: 1.2125;
+      color: #000000;
+      margin-right: 3.05rem;
+      font-weight: 400;
+      font-family: Inter, 'Source Sans Pro';
+      flex-shrink: 0;
+    }
+  }
+}
