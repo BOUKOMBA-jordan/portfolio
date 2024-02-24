@@ -5,5 +5,4 @@
   <a href="#" class="menu-bouton">Compétence</a>
   <a href="#" class="menu-bouton">Formation /certificat</a>
   <a href="#" class="menu-bouton">Contact</a>
-  
 </nav>
