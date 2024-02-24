@@ -1,4 +1,4 @@
 
-<div style="border: 3px solid green;">
+<div>
     <img src="./images/logo.jpg" alt="logo" class="logo">
 </div>

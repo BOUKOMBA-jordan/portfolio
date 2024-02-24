@@ -1,21 +1,43 @@
 
 
   header{
-    border: 2px solid white;
- 
     display: flex;
-
-    
   }
 
   body{
     background-image: url('../images/acceuil-bg.png');
     background-size: 100% 100%;
     background-repeat: no-repeat;
-    height: 1024px;
-   
+    height: 1120px;
   }
 
 
+.contenue{
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+
+.mot-bienvenue{
+  text-align: center;
+  font-weight: 700;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(21, 19, 19, 0.07);
+  font-size: 4.8rem;
+  font-weight: 400;
+}
+
+.sous-titre{
+  text-align: center;
+  color: #ffffff;
+  font-family: IM FELL French Canon, 'Source Sans Pro';
+  font-size: 2rem;
+  font-weight: 100;
+  margin-top: 1px;
+}
 
 
