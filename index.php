@@ -12,7 +12,7 @@
         <link rel="stylesheet" href="./styles/contact.css" />
     </head>
 
-    <body style="border: 3px solid red;">
+    <body>
 
         <header>
             <?php include("logo.php"); ?>
