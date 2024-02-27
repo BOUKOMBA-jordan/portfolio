@@ -1,62 +1,59 @@
- 
-.contact{
-    width: 100%;
-}
-  
-.contact-text{
-    text-align: center;
-    font-size: 4.8rem;
-    font-weight: 400;
-    color: #ffffff;
-    font-family: Roboto Serif, 'Source Sans Pro';
-    align-items: center;
-    display: flex;
-    flex-direction: column;
-    margin-top: 2%;
-  }
+ .contact {
+     width: 100%;
+ }
 
-.contact-elements{
-   display: flex;
-   width: 100%;
-   flex-wrap: wrap;
-   justify-content: space-between;
-}
+ .contact-text {
+     text-align: center;
+     font-size: 4.8rem;
+     font-weight: 400;
+     color: #ffffff;
+     font-family: Roboto Serif, 'Source Sans Pro';
+     align-items: center;
+     display: flex;
+     flex-direction: column;
+     margin-top: 2%;
+ }
 
-.tel-mail{
-    margin-top: 4.5%;
-    margin-left: 8%;
-}
+ .reseaux-sociaux {
+     margin-top: 7%;
+     margin-left: 25%;
+     height: 70px;
+     width: 50%;
+     display: flex;
+     justify-content: space-between;
+ }
 
-.tel-mail-paragraphe{
-    font-size: 2.1rem;
-    font-weight: 400;
-    color: #fff400;
-    font-family: IM FELL French Canon, 'Source Sans Pro';
-}
+ .gmail {
+     margin-top: 7%;
+     margin-right: 10%;
+     height: 47%;
+     width: 100%;
+ }
 
-.reseaux-sociaux {
-    margin-top: 7%;
-    margin-right: 10%;
-    height: 70px;
-    width: 20%; 
-    display: flex;
-    justify-content: space-between;
-}
-  
-.formulaire{
-    margin-left: 8%;
-    margin-right: 18%;
-}
- 
+ .appel {
+     margin-top: 7%;
+     margin-right: 10%;
+     height: 50%;
+     width: 100%;
+ }
 
-.input{
-    width: 100%;
-}
+ .linkdln {
+     margin-top: 7%;
+     margin-right: 10%;
+     height: 50%;
+     width: 100%;
+ }
 
-.validation{
-    display: flex;
-    justify-content: space-between;
-}
+ .whatsapp {
+     margin-top: 7%;
+     margin-right: 10%;
+     height: 50%;
+     width: 100%;
+ }
 
-
-  
+ .facebook {
+     margin-top: 7%;
+     margin-right: 10%;
+     height: 50%;
+     width: 100%;
+ }

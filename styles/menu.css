@@ -1,21 +1,21 @@
-.menu{
+.menu {
   margin-top: 50px;
   border: 2px solid rgb(56, 22, 247);
 }
 
-.menu-header{
+.menu-header {
   width: 100%;
   margin-left: 20%;
-  border: 2px solid black;
+  border: 2px solid rgb(252, 249, 249);
 }
 
-.menu-bouton{
+.menu-bouton {
   padding: 2px;
   font-size: 1.1rem;
-  color: #1d1d22;
+  color: #ececf3;
   font-family: Roboto Serif, 'Source Sans Pro';
   cursor: pointer;
   text-align: left;
-  margin: 2%; 
+  margin: 2%;
   border: 2px solid rgb(247, 1, 1);
 }

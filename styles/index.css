@@ -1,24 +1,22 @@
+header {
+  display: flex;
+  border: 2px solid rgb(255, 0, 0);
+}
+
+body {
+  background-image: url('../images/fond3.jfif');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 1400px;
+}
 
 
-  header{
-    display: flex;
-    border: 2px solid rgb(255, 0, 0);
-  }
-
-  body{
-    background-image: url('../images/acceuil-bg.png');
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    height: 1120px;
-  }
-
-
-.contenue{
+.contenue {
   margin-top: 10%;
   margin-bottom: 10%;
 }
 
-.mot-bienvenue{
+.mot-bienvenue {
   text-align: center;
   font-weight: 700;
   color: #fdfdff;
@@ -32,7 +30,7 @@
   font-weight: 400;
 }
 
-.sous-titre{
+.sous-titre {
   text-align: center;
   color: #ffffff;
   font-family: IM FELL French Canon, 'Source Sans Pro';
@@ -42,7 +40,37 @@
 }
 
 
+.a-propos {
+  border: 2px solid rgb(248, 235, 235);
+  font-size: 130%;
+  font-weight: 250;
+  color: #fff400;
+  font-family: IM FELL French Canon, 'Source Sans Pro';
+  text-align: center;
+  margin-right: 12%;
+  width: 80%;
+  margin-left: 5%;
+}
 
+.presentation {
+  text-align: center;
+  font-size: 120%;
+  font-weight: 230;
+  color: #fff400;
+  font-family: IM FELL French Canon, 'Source Sans Pro';
+  border: 2px solid rgb(38, 0, 255);
+}
 
+.mon-image {
+  width: 60%;
+  margin-top: 20px;
+  border: 2px solid rgb(0, 255, 221);
+}
 
-
+.propos {
+  display: flex;
+  justify-content: center;
+  border: 2px solid rgb(248, 235, 235);
+  margin-right: 12px;
+  background-size: 103.827% 128.07%;
+}
