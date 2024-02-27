@@ -5,14 +5,13 @@
 
 .menu-header{
   width: 100%;
-  margin-left: 30%;
+  margin-left: 20%;
   border: 2px solid black;
 }
 
 .menu-bouton{
   padding: 2px;
   font-size: 1.1rem;
-  text-decoration: none;
   color: #1d1d22;
   font-family: Roboto Serif, 'Source Sans Pro';
   cursor: pointer;
