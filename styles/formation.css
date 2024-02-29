@@ -1,0 +1,32 @@
+.realisation{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.card_realisation {
+    width: 25%;
+    height: 325px;
+    border: 2px solid red;
+    margin-left: 5%;
+    margin-top: 5%;
+
+}
+
+.image_realisation {
+    border: 2px solid rgb(21, 255, 0);
+   width: 100%;
+}
+
+.titre_realisation {
+    font-size: 120%;
+  font-weight: 230;
+  text-align: center;
+    color: aliceblue;
+    border: 2px solid rgb(25, 0, 255);
+}
+
+.conteneur_image{
+    width: 60%;
+    margin-left: 20%;
+}

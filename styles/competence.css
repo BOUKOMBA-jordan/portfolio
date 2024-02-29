@@ -1,0 +1,57 @@
+.titre_section1 {
+    height: 6rem;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 200;
+    color: #ffffff;
+    font-family: Roboto Serif, 'Source Sans Pro';
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid 0.2rem #e50d0d;
+
+
+}
+
+.frame-1 {
+    width: 100%;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    border: 2px solid rgb(219, 13, 13);
+    flex-wrap: wrap;
+}
+
+.frame-paragraphe-1 {
+    height: 100%;
+    border: solid 0.2rem #0228ff;
+    flex-shrink: 0;
+    justify-content: center;
+}
+
+.environnement_travail {
+    font-size: 2rem;
+    font-weight: 400;
+    color: #ffffff;
+    font-family: IM FELL French Canon, 'Source Sans Pro';
+    border: 2px solid rgb(1, 255, 115);
+}
+
+.image-1 {
+    margin-left: 10%;
+    width: 30%;
+    height: 70%;
+    object-fit: cover;
+    vertical-align: top;
+    border-radius: 7rem;
+    flex-shrink: 0;
+    border: 2px solid rgb(255, 235, 10);
+    flex-wrap: wrap;
+}
+
+
+.image-2{
+    margin-left: 35%;
+    margin-top: 60px;
+}
